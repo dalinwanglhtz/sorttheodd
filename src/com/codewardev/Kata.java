@@ -20,9 +20,7 @@ public class Kata {
 				}
 			}
 		}
-		System.out.println("This set...");
-		for(int a: result)
-			System.out.println("a: "+a);
+
 		return result;
 	}
 
